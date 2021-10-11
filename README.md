@@ -1,13 +1,14 @@
-# wellcomeStalker It-s Taylan
-
-## Ssorry i'm busy saving the dinosaur generation
-
+# It-s Taylan 
+Ssorry i'm busy saving the dinosaur generation :skull_and_crossbones:		
 <img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="700" height="250" />
 
+:point_down: keep going please don't be bothered 
 
+##### look mom i can write
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanCann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![](https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey)
 
 <!--
 **TaylanCann/TaylanCann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
