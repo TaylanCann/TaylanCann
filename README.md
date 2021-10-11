@@ -1,6 +1,13 @@
-### WellCome
+# wellcomeStalker It-s Taylan
+
+## Ssorry i'm busy saving the dinosaur generation
+
+<img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="700" height="250" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanCann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **TaylanCann/TaylanCann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
