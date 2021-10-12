@@ -1,25 +1,28 @@
-# It-s Taylan 
-Ssorry i'm busy saving the dinosaur generation :skull_and_crossbones:		
-<img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="700" height="250" />
+<h1 align="center"> It-s Taylan</h1>
 
+<h3 align="center"> Ssorry i'm busy saving the dinosaur generation :skull_and_crossbones: </h3>		
+<p align="center"> 
+  <img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="500" height="150" />
+</p>
+<p align="center"> 
 :point_down: keep going please don't be bothered 
+</p>
 
-### if u want to talk to me you can walk to me
+<h3 align="center"> if u want to talk to me you can walk to me </h3>
+
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
 
 [1.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png
 [2.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png
-[3.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png
 ![](https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey)
 
 
 
 [1]: http://www.twitter.com/taylan_cann
 [2]: https://www.linkedin.com/in/taylancan/
-[3]: https://plus.google.com/+CarlSednaoui
+
 
 
 
