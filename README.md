@@ -8,7 +8,7 @@
 :point_down: keep going please don't be bothered 
 </p>
 
-<h3 align="center"> if u want to talk to me you can walk to me </h3>
+<h3 align="center"> if u wanna talk to me you can walk to me </h3>
 
 
 [![alt text][1.1]][1]
