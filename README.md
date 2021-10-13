@@ -7,11 +7,17 @@
 
 <h3 align="center"> Contact me </h3>
 
+<p align="center">
+<a href= "http://www.twitter.com/taylan_cann">
+<img align="center"  src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" /> 
+</a>
+<a href= "https://www.linkedin.com/in/taylancan/">
+<img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" /> 
+</a>
+</p>
 
 
-<img align="center" alt="http://www.twitter.com/taylan_cann" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" /> [twitter]
-
-[twitter]: http://www.twitter.com/taylan_cann
+![](https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey)
 
 
 
@@ -43,7 +49,6 @@ Here are some ideas to get you started:
           
 [1.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png 
 [2.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png
-![](https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey)
 
 
 
