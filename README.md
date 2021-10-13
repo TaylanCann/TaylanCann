@@ -16,20 +16,18 @@
 </a>
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey)
-
-
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey" />
+</p>
 
 
+<h3  align="center"> look mom i can write </h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylancann&layout=compact" />
+</p>
 
 
-
-
-
-##### look mom i can write
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylanCann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
