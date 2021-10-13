@@ -1,27 +1,21 @@
 <h1 align="center"> It-s Taylan</h1>
 
-<h3 align="center"> Ssorry i'm busy saving the dinosaur generation :skull_and_crossbones: </h3>		
+<h3 align="center"> Ssorry i'm busy saving the dinosaur generation :skull_and_crossbones: keep going please  :point_down: </h3>		
 <p align="center"> 
   <img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="500" height="150" />
 </p>
-<p align="center"> 
-:point_down: keep going please don't be bothered 
-</p>
 
-<h3 align="center"> if u wanna talk to me you can walk to me </h3>
-
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-[1.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png
-[2.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png
-![](https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey)
+<h3 align="center"> Contact me </h3>
 
 
 
-[1]: http://www.twitter.com/taylan_cann
-[2]: https://www.linkedin.com/in/taylancan/
+<img align="center" alt="http://www.twitter.com/taylan_cann" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" /> [twitter]
+
+[twitter]: http://www.twitter.com/taylan_cann
+
+
+
+
 
 
 
@@ -44,6 +38,17 @@ Here are some ideas to get you started:
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
 
+[![alt text ][1.1]][1]
+[![alt text ][2.1]][2]
+          
+[1.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png 
+[2.1]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png
+![](https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey)
+
+
+
+[1]: http://www.twitter.com/taylan_cann
+[2]: https://www.linkedin.com/in/taylancan/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
