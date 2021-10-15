@@ -21,7 +21,7 @@
 </p>
 
 
-<h3  align="center"> look mom i can write </h3>
+<h3 align="center"> look mom i can write </h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylancann&layout=compact" />
